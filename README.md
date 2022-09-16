@@ -1,2 +1,9 @@
-# socode-e-commerse-iii-day01-korius
-Belajar Git &amp; GitHub
+# Belajar Git &amp; GitHub
+
+## CLI Commands
+
+perintah membuka folder
+
+```
+cd nama_folder
+```
